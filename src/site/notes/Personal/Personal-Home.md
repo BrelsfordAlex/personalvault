@@ -28,37 +28,37 @@ Want to add yourself to the system folder?  its simple!
 
 - **Daily Note**
 	- **2024**
-		- [[Personal/Daily Note/2024/2024-12-11\|2024-12-11]]
-		- [[Personal/Daily Note/2024/2024-12-29\|2024-12-29]]
-		- [[Personal/Daily Note/2024/2024-12-30\|2024-12-30]]
+		- [[Personal/Journal/Daily Note/2024/2024-12-11\|2024-12-11]]
+		- [[Personal/Journal/Daily Note/2024/2024-12-29\|2024-12-29]]
+		- [[Personal/Journal/Daily Note/2024/2024-12-30\|2024-12-30]]
 	- **2025**
 		- **01 - January**
-			- [[Personal/Daily Note/2025/01 - January/2025-01-04\|2025-01-04]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-05\|2025-01-05]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-06\|2025-01-06]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-07\|2025-01-07]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-19\|2025-01-19]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-20\|2025-01-20]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-25\|2025-01-25]]
-			- [[Personal/Daily Note/2025/01 - January/2025-01-26\|2025-01-26]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-04\|2025-01-04]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-05\|2025-01-05]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-06\|2025-01-06]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-07\|2025-01-07]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-19\|2025-01-19]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-20\|2025-01-20]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-25\|2025-01-25]]
+			- [[Personal/Journal/Daily Note/2025/01 - January/2025-01-26\|2025-01-26]]
 		- **02 - February**
-			- [[Personal/Daily Note/2025/02 - February/2025-02-08\|2025-02-08]]
-			- [[Personal/Daily Note/2025/02 - February/2025-02-09\|2025-02-09]]
-			- [[Personal/Daily Note/2025/02 - February/2025-02-10\|2025-02-10]]
-			- [[Personal/Daily Note/2025/02 - February/2025-02-11\|2025-02-11]]
-			- [[Personal/Daily Note/2025/02 - February/2025-02-12\|2025-02-12]]
+			- [[Personal/Journal/Daily Note/2025/02 - February/2025-02-08\|2025-02-08]]
+			- [[Personal/Journal/Daily Note/2025/02 - February/2025-02-09\|2025-02-09]]
+			- [[Personal/Journal/Daily Note/2025/02 - February/2025-02-10\|2025-02-10]]
+			- [[Personal/Journal/Daily Note/2025/02 - February/2025-02-11\|2025-02-11]]
+			- [[Personal/Journal/Daily Note/2025/02 - February/2025-02-12\|2025-02-12]]
 		- **03 - March**
-			- [[Personal/Daily Note/2025/03 - March/2025-03-02\|2025-03-02]]
-			- [[Personal/Daily Note/2025/03 - March/2025-03-17\|2025-03-17]]
-			- [[Personal/Daily Note/2025/03 - March/2025-03-25\|2025-03-25]]
+			- [[Personal/Journal/Daily Note/2025/03 - March/2025-03-02\|2025-03-02]]
+			- [[Personal/Journal/Daily Note/2025/03 - March/2025-03-17\|2025-03-17]]
+			- [[Personal/Journal/Daily Note/2025/03 - March/2025-03-25\|2025-03-25]]
 		- **04 - April**
-			- [[Personal/Daily Note/2025/04 - April/2025-04-17\|2025-04-17]]
-			- [[Personal/Daily Note/2025/04 - April/2025-04-29\|2025-04-29]]
-			- [[Personal/Daily Note/2025/04 - April/2025-04-30\|2025-04-30]]
+			- [[Personal/Journal/Daily Note/2025/04 - April/2025-04-17\|2025-04-17]]
+			- [[Personal/Journal/Daily Note/2025/04 - April/2025-04-29\|2025-04-29]]
+			- [[Personal/Journal/Daily Note/2025/04 - April/2025-04-30\|2025-04-30]]
 		- **05 - May**
-			- [[Personal/Daily Note/2025/05 - May/2025-05-01\|2025-05-01]]
-			- [[Personal/Daily Note/2025/05 - May/2025-05-03\|2025-05-03]]
-			- [[Personal/Daily Note/2025/05 - May/2025-05-04\|2025-05-04]]
+			- [[Personal/Journal/Daily Note/2025/05 - May/2025-05-01\|2025-05-01]]
+			- [[Personal/Journal/Daily Note/2025/05 - May/2025-05-03\|2025-05-03]]
+			- [[Personal/Journal/Daily Note/2025/05 - May/2025-05-04\|2025-05-04]]
 			- 
 - **Images**
 	- **1-1-25**
