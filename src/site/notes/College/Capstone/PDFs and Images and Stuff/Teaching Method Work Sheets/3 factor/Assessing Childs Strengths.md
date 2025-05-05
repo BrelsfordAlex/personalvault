@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/3-factor/assessing-childs-strengths/","tags":["3factormethod","capstone","worksheets","project"]}
+{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/3-factor/assessing-childs-strengths/","tags":["3factormethod","capstone","worksheets","project"],"noteIcon":""}
 ---
 
 1.  What class do you feel the strongest in?

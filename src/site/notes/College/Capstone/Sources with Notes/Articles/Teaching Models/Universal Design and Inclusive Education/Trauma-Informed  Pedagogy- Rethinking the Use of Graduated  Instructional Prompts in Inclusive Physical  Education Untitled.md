@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/trauma-informed-pedagogy-rethinking-the-use-of-graduated-instructional-prompts-in-inclusive-physical-education-untitled/","tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/trauma-informed-pedagogy-rethinking-the-use-of-graduated-instructional-prompts-in-inclusive-physical-education-untitled/","tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"noteIcon":""}
 ---
 
 # Reference

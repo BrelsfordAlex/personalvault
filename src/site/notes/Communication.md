@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/communication/","tags":["communication","System"]}
+{"dg-publish":true,"permalink":"/communication/","tags":["communication","System"],"noteIcon":""}
 ---
 
 > [!important]+ About this Page

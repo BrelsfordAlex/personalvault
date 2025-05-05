@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/early-years-model-of-practice/a-model-of-practice-for-building-teacher-capacity-in-educating-young-school-age-children-on-the-autism-spectrum-user-perspectives/","tags":["eymop","teachingmethod-mentioned"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/early-years-model-of-practice/a-model-of-practice-for-building-teacher-capacity-in-educating-young-school-age-children-on-the-autism-spectrum-user-perspectives/","tags":["eymop","teachingmethod-mentioned"],"noteIcon":""}
 ---
 
 

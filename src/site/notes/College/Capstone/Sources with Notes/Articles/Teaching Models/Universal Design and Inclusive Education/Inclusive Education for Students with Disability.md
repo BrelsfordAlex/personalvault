@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/inclusive-education-for-students-with-disability/","tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/inclusive-education-for-students-with-disability/","tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"noteIcon":""}
 ---
 
 # Reference

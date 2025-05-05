@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/outline/","tags":["outline","Feb25th","Classroom-Pivotal-Response-Teaching-CPRT","3factormethod","direct-instruction","eymop"]}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/outline/","tags":["outline","Feb25th","Classroom-Pivotal-Response-Teaching-CPRT","3factormethod","direct-instruction","eymop"],"noteIcon":""}
 ---
 
 # Basics 

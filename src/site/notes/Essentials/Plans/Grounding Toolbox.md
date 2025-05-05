@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/plans/grounding-toolbox/","tags":["Grounding","Crisis-Plan","help","anchor"]}
+{"dg-publish":true,"permalink":"/essentials/plans/grounding-toolbox/","tags":["Grounding","Crisis-Plan","help","anchor"],"noteIcon":""}
 ---
 
 # Grounding Tools

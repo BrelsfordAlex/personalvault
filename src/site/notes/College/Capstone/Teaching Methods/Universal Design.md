@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/universal-design/","tags":["Universal-Design","capstone","project"]}
+{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/universal-design/","tags":["Universal-Design","capstone","project"],"noteIcon":""}
 ---
 
 > [!abstract] About Universal Design

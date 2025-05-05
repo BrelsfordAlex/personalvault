@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/foxie/","tags":["Alter","System"]}
+{"dg-publish":true,"permalink":"/personal/parts/foxie/","tags":["Alter","System"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/plans/crisis-plan/","tags":["Crisis-Plan","SelfCare","anchor","safety"]}
+{"dg-publish":true,"permalink":"/essentials/plans/crisis-plan/","tags":["Crisis-Plan","SelfCare","anchor","safety"],"noteIcon":""}
 ---
 
 # How to tell you are in a triggered State

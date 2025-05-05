@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/about-autism-in-schools/","tags":["Autism","autism-knowladge","capstone","project"]}
+{"dg-publish":true,"permalink":"/college/capstone/about-autism-in-schools/","tags":["Autism","autism-knowladge","capstone","project"],"noteIcon":""}
 ---
 
 >[!info] About Autism in Schools

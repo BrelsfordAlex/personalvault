@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/templates-personal/daily-journal-date/","tags":["daily"]}
+{"dg-publish":true,"permalink":"/z-templates/templates-personal/daily-journal-date/","tags":["daily"],"noteIcon":""}
 ---
 
 **<u>How did today feel:</u>** ☆☆☆☆☆

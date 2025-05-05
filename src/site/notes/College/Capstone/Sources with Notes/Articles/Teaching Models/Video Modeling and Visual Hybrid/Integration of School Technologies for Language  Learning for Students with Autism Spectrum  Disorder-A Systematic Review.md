@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/integration-of-school-technologies-for-language-learning-for-students-with-autism-spectrum-disorder-a-systematic-review/","tags":["technology","video","learningstyle","teachingmethod-mentioned"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/integration-of-school-technologies-for-language-learning-for-students-with-autism-spectrum-disorder-a-systematic-review/","tags":["technology","video","learningstyle","teachingmethod-mentioned"],"noteIcon":""}
 ---
 
 # Reference

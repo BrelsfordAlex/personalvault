@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/to-do-list/","tags":["todo","low-energy","high-energy","mid-energy","task-hub"]}
+{"dg-publish":true,"permalink":"/to-do-list/","tags":["todo","low-energy","high-energy","mid-energy","task-hub"],"noteIcon":""}
 ---
 
 > [!tip] **Key for Energy-Level Tasks**
@@ -29,4 +29,4 @@
 
 [^1]
 
-[^1]: Backlinks - [[Home Page\|Home Page]]  - [[User Guide\|User Guide]] - [[Essentials/Plans/Crisis Plan\|Crisis Plan]] - 
+[^1]: Backlinks - [[Home Page\|Home Page]]  - [[Essentials/User Guide\|User Guide]] - [[Essentials/Plans/Crisis Plan\|Crisis Plan]] - 

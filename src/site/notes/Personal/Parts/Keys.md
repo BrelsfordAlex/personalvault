@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/keys/","tags":["Alter","System","Catboycrewandkeys","forgottencircus","theforgottencircus","introject","host","fictive","Cohost","MoneyKeeper","mainfronter"]}
+{"dg-publish":true,"permalink":"/personal/parts/keys/","tags":["Alter","System","Catboycrewandkeys","forgottencircus","theforgottencircus","introject","host","fictive","Cohost","MoneyKeeper","mainfronter"],"noteIcon":""}
 ---
 
 

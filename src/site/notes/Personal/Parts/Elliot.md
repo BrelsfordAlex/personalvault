@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/elliot/","tags":["Alter","System"]}
+{"dg-publish":true,"permalink":"/personal/parts/elliot/","tags":["Alter","System"],"noteIcon":""}
 ---
 
 

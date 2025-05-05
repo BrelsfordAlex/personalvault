@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/general-education-teachers-perceptions-of-autism-inclusive-practices-and-relationship-building-strategies/","tags":["General-Education","Autism","Inclusion","Teacher-Perceptions","Pedagogical-Practices"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/general-education-teachers-perceptions-of-autism-inclusive-practices-and-relationship-building-strategies/","tags":["General-Education","Autism","Inclusion","Teacher-Perceptions","Pedagogical-Practices"],"noteIcon":""}
 ---
 
 # Reference

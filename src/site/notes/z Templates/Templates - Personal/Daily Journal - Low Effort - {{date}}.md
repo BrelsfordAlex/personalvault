@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/templates-personal/daily-journal-low-effort-date/"}
+{"dg-publish":true,"permalink":"/z-templates/templates-personal/daily-journal-low-effort-date/","noteIcon":""}
 ---
 
 ## Daily Check-In (2–5 minutes)

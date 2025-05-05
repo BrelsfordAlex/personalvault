@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/inclusive-education/","tags":["project","capstone","Inclusion","inclusive-education"]}
+{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/inclusive-education/","tags":["project","capstone","Inclusion","inclusive-education"],"noteIcon":""}
 ---
 
  

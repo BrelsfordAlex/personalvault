@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-helps/","tags":["sensory-tools","tools","regulate","soothing","triggered"]}
+{"dg-publish":true,"permalink":"/what-helps/","tags":["sensory-tools","tools","regulate","soothing","triggered"],"noteIcon":""}
 ---
 
 # What Helps

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/someone-like-minded-in-a-big-place/","tags":["Autism","General-Education","peer-support","school","mental-health"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/someone-like-minded-in-a-big-place/","tags":["Autism","General-Education","peer-support","school","mental-health"],"noteIcon":""}
 ---
 
 

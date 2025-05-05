@@ -1,12 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["home-page","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["home-page","gardenEntry"],"noteIcon":""}
 ---
+
+> [!info]+ 🔗 Quick Links
+> 
+> - [[Communication\|Communication]]
+> - [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
+> - [[Essentials/Plans/Post Crisis Plan\|Post Crisis Plan]]
+> - [[Essentials/User Guide\|User Guide]]
+> - [[Essentials/Achievements\|Achievements]]
+> - [[Essentials/Triggers\|Triggers]]
+> - 
+> 
 
 # Welcome to the Vault
 
 This is the vault for all of our personal things — things like our [[College/Capstone/Capstone-Home\|Capstone]], [[Personal/Personal-Home\|Personal Journal]], and maybe more in the future.  
 
-Use this space when you need to, or when you can. Nothing here is urgent. Nothing here is mandatory.
+Use this space when you need to, or when you can. Nothing here is urgent. Nothing here is mandatory. 
+
+Do you have a good thing that happened? Put it in [[Essentials/Achievements\|Achievements]]
+
+Were you triggered? put it in [[Essentials/Triggers\|Triggers]]
+
 
 ---
 
@@ -30,7 +46,7 @@ You don’t have to do everything. One small thing is enough.
 Pick just *one* if it feels okay:
 - [ ] Open a **Daily Log** and write one sentence
 - [ ] Leave a quick note in [[Communication\|Communication]]
-- [ ] Try one thing from [[What Helps\|What Helps]]
+- [ ] Try one thing from [[What Helps\|What Helps]] and write your trigger in [[Essentials/Triggers\|Triggers]]
 - [ ] Look at [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]
 - [ ] Visit [[Essentials/Plans/Crisis Plan\|Crisis Plan]] (only if needed)
 
@@ -59,6 +75,7 @@ This is a safe space. You don’t need to be productive to belong here.
 These are soft agreements we’ve made to care for ourselves and each other. They’re not punishments — they’re support.
 
 - If triggered, please use the [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] first before acting.
+- Write your trigger in [[Essentials/Triggers\|Triggers]]
 
 ---
 
@@ -92,12 +109,6 @@ These are soft agreements we’ve made to care for ourselves and each other. The
 
 This vault belongs to all of us. It doesn’t need to be perfect. You’re allowed to take up space here, even on days when you don’t know who you are.
 
-
-## 🔗 Quick Links
-- [[Communication\|Communication]]
-- [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
-- [[Essentials/Plans/Post Crisis Plan\|Post Crisis Plan]]
-- [[User Guide\|User Guide]]
 
 
 

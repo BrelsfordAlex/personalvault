@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/practices-and-experiences-of-general-education-teachers-educating-students-with-autism/","tags":["UDL","Classroom-Pivotal-Response-Teaching-CPRT","teachingmethod-mentioned"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/practices-and-experiences-of-general-education-teachers-educating-students-with-autism/","tags":["UDL","Classroom-Pivotal-Response-Teaching-CPRT","teachingmethod-mentioned"],"noteIcon":""}
 ---
 
 # Reference

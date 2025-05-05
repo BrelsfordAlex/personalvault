@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/midnight/","tags":["Alter","protector","traumaholder","fromchildhood"]}
+{"dg-publish":true,"permalink":"/personal/parts/midnight/","tags":["Alter","protector","traumaholder","fromchildhood"],"noteIcon":""}
 ---
 
 # Midnight

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/reading-comprehension-instruction-for-young-students-with-autism-forming-contextual-connections/","tags":["teachingmethod-mentioned","readingcomprehension"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/reading-comprehension-instruction-for-young-students-with-autism-forming-contextual-connections/","tags":["teachingmethod-mentioned","readingcomprehension"],"noteIcon":""}
 ---
 
 # Reference

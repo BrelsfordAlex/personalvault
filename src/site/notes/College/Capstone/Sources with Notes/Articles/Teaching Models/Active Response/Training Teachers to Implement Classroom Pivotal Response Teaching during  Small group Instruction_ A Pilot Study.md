@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/training-teachers-to-implement-classroom-pivotal-response-teaching-during-small-group-instruction-a-pilot-study/","tags":["teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"]}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/training-teachers-to-implement-classroom-pivotal-response-teaching-during-small-group-instruction-a-pilot-study/","tags":["teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"],"noteIcon":""}
 ---
 
 # References

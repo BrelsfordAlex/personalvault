@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/grumbot/","tags":["Alter","#helper","#fictive","#introject"]}
+{"dg-publish":true,"permalink":"/personal/parts/grumbot/","tags":["Alter","#helper","#fictive","#introject"],"noteIcon":""}
 ---
 
 # Grumbot
