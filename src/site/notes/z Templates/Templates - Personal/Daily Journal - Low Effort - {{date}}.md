@@ -15,5 +15,5 @@
 
 ## Quick Access
 - [[Communication\|Communication]]
-- [[Plans/Crisis Plan\|Crisis Plan]]
-- [[Plans/Grounding Toolbox\|Grounding Toolbox]]
+- [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
+- [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]

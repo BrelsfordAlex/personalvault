@@ -13,7 +13,7 @@ It’s here to help with memory, communication, self-care, and healing. We don�
 ## Where to Start
 
 - If you're okay and want to check in → open a daily note In the journal folder
-- Need help? → go to [[Plans/Crisis Plan\|Crisis Plan]]
+- Need help? → go to [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
 
 ---
 
@@ -53,7 +53,7 @@ Try one of these:
 - Say hi in [[Communication\|Communication]]
 - Fill out one line in a daily journal (pinned at top)
 - Add one thing that helped to [[What Helps\|What Helps]]
-- Look at [[Plans/Grounding Toolbox\|Grounding Toolbox]] and try one
+- Look at [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] and try one
 - Just scroll through pages and see what feels safe
 
 ---

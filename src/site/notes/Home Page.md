@@ -2,7 +2,102 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["home-page","gardenEntry"]}
 ---
 
-# Introduction
-This is the Vault that is for all of our personal things, things like our [[College/Capstone/Capstone-Home\|Capstone]], [[Personal/Personal-Home\|Personal Journal]] and maybe more in the future. This is something we will be using when we feel like we need to/can. 
+# Welcome to the Vault
+
+This is the vault for all of our personal things — things like our [[College/Capstone/Capstone-Home\|Capstone]], [[Personal/Personal-Home\|Personal Journal]], and maybe more in the future.  
+
+Use this space when you need to, or when you can. Nothing here is urgent. Nothing here is mandatory.
+
+---
+
+# Are You New Here?
+
+Hi. If you're reading this, you're doing a good job just by showing up.
+
+This page is for when you're tired, foggy, confused, anxious, or just not sure what to do next.  
+You don’t have to do everything. One small thing is enough.
+
+---
+
+## 1-Minute Check-In
+- [ ] Who is fronting right now?
+- [ ] Do you feel tired, foggy, or not real?
+- [ ] Is there anything you need?
+
+---
+
+## Gentle Next Steps
+Pick just *one* if it feels okay:
+- [ ] Open a **Daily Log** and write one sentence
+- [ ] Leave a quick note in [[Communication\|Communication]]
+- [ ] Try one thing from [[What Helps\|What Helps]]
+- [ ] Look at [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]
+- [ ] Visit [[Essentials/Plans/Crisis Plan\|Crisis Plan]] (only if needed)
+
+---
+
+## If You Don’t Know What to Do
+
+That’s okay.
+- You can rest here.
+- You can read.
+- You can close the vault and come back later.
+
+This is a safe space. You don’t need to be productive to belong here.
+
+---
+
+## Notes to Self (or from Others)
+- “You’ve survived every hard moment so far.”
+- “It’s okay to go slow.”
+- “Your safety matters more than your schedule.”
+
+---
+
+# Internal Guidelines
+
+These are soft agreements we’ve made to care for ourselves and each other. They’re not punishments — they’re support.
+
+- If triggered, please use the [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] first before acting.
+
+---
+
+> [!important]+ **System Rules: Fronting**
+> These are rules our system has agreed on to help us stay safe, accountable, and respectful — to ourselves and to others.
+>
+> **1) System Accountability**  
+> We take responsibility for actions while fronting.  
+> Society will still treat us as one person, so we don’t blame another part as a way to avoid consequences.
+>
+> **2) The Body Must Be Taken Care Of**  
+> - Eat something. Drink water. Sleep when you can.  
+> - If you want a snack, put it on the list — we’ll try to get it.  
+> - Please limit fast food to 2x/week — we’re trying to lose weight.
+>
+> **3) Who Can Front**  
+> - Anyone can front, unless they pose a danger to the body, other alters, or others.  
+> - If that happens, fronting privileges can be revoked without warning.
+>
+> **4) Age-Based Fronting Limits**  
+> - Alters under 13 must co-front with someone 18+ for safety and masking.  
+> - Exceptions: Fay, Ally, Sparkle, Redacted.
+>
+> **5) Interactions with Others**  
+> - You don’t have to interact with anyone you don’t want to.  
+> - If you want friends who know we are a system, you must introduce yourself — don’t assume people know who you are.
+
+---
+
+# ❤️ Closing Note
+
+This vault belongs to all of us. It doesn’t need to be perfect. You’re allowed to take up space here, even on days when you don’t know who you are.
+
+
+## 🔗 Quick Links
+- [[Communication\|Communication]]
+- [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
+- [[Essentials/Plans/Post Crisis Plan\|Post Crisis Plan]]
+- [[User Guide\|User Guide]]
+
 
 

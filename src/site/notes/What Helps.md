@@ -29,7 +29,7 @@ This page is a growing list of things that help us feel grounded, safe, calm, or
 ---
 
 ## Mental Reset Tools
-- [[Plans/Grounding Toolbox\|Grounding Toolbox]]
+- [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]
 - Making a list (even nonsense)
 - Saying the day, time, and place out loud
 - Reassurance notes from system or self
