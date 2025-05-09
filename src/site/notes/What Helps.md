@@ -23,7 +23,7 @@ This page is a growing list of things that help us feel grounded, safe, calm, or
 - Crying (it’s okay)
 - Talking to someone in the system
 - Repeating: “We are safe now.”
-- Writing in [[Communication\|Communication]]
+- Writing in [[Personal/Communication\|Communication]]
 - Listening to a part’s favorite song
 
 ---

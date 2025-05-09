@@ -4,7 +4,7 @@
 
 > [!info]+ 🔗 Quick Links
 > 
-> - [[Communication\|Communication]]
+> - [[Personal/Communication\|Communication]]
 > - [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
 > - [[Essentials/Plans/Post Crisis Plan\|Post Crisis Plan]]
 > - [[Essentials/User Guide\|User Guide]]
@@ -45,7 +45,7 @@ You don’t have to do everything. One small thing is enough.
 ## Gentle Next Steps
 Pick just *one* if it feels okay:
 - [ ] Open a **Daily Log** and write one sentence
-- [ ] Leave a quick note in [[Communication\|Communication]]
+- [ ] Leave a quick note in [[Personal/Communication\|Communication]]
 - [ ] Try one thing from [[What Helps\|What Helps]] and write your trigger in [[Essentials/Triggers\|Triggers]]
 - [ ] Look at [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]
 - [ ] Visit [[Essentials/Plans/Crisis Plan\|Crisis Plan]] (only if needed)

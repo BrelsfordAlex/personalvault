@@ -15,6 +15,10 @@
 - [ ] Open Daily Log 🟠
 	- [ ] Add 1 sentence to journal 🟠
 - [ ] Eat one time a day MINIMUM 🟢 ❗
+	- [ ] Cook Twice ❗🟢
+- [ ] Make a list of things we can do with teaching Degree 🟠
+- [ ] Laundry ❗🟡
+- [ ] Trash 🟡❗
 # Basic Daily Tasks
 - [ ] Drink water 🟢
 - [ ] Open Daily Log 🟠
@@ -26,6 +30,9 @@
 	- [ ] Bonus Shower if you have Energy 🟡
 - [ ] Take out Trash 🟢
 - [ ] Do Laundry 🟢
+
+# To Do List 
+- [x] Clean [[Personal/People/Courtney\|Courtney]]'s Car Wednesday Morning ❗🟡 Done [[Personal/Journal/Daily Note/2025/05 - May/2025-05-07\|2025-05-07]] and [[Personal/Journal/Daily Note/2025/05 - May/2025-05-08\|2025-05-08]]
 
 [^1]
 

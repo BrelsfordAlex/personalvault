@@ -50,7 +50,7 @@ It’s here to help with memory, communication, self-care, and healing. We don�
 ## If You’re Not Sure What to Do
 
 Try one of these:
-- Say hi in [[Communication\|Communication]]
+- Say hi in [[Personal/Communication\|Communication]]
 - Fill out one line in a daily journal (pinned at top)
 - Add one thing that helped to [[What Helps\|What Helps]]
 - Look at [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] and try one

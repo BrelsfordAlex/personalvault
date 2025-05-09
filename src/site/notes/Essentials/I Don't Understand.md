@@ -42,7 +42,7 @@ T*here are so many more questions but please visit [[Essentials/I Don't Understa
 
 1. **Breathe** – 3 deep, slow breaths  
 2. **Drink water** – cold if possible  
-3. **Identify the trigger** – if safe, write it in [[Communication\|Communication]]  
+3. **Identify the trigger** – if safe, write it in [[Personal/Communication\|Communication]]  
 4. **Use a grounding tool** – see [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]  or [[What Helps\|What Helps]]
 5. **Ask for help** if needed  
    - People you can talk to:  

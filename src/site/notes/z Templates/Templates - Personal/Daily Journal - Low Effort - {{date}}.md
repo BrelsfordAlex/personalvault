@@ -14,6 +14,6 @@
 ---
 
 ## Quick Access
-- [[Communication\|Communication]]
+- [[Personal/Communication\|Communication]]
 - [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
 - [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]

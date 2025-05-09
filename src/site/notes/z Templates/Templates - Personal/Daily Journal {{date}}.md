@@ -7,7 +7,7 @@
 # Today
 ---
 ## Daily System Log  
-**Date:** {{date:YYYY-MM-DD}}
+**Date:**
 
 ---
 
@@ -31,7 +31,9 @@
 ---
 
 ### What Happened Today?
--  
+#### Triggers 
+
+#### Journal Entry
 
 ---
 
@@ -47,11 +49,7 @@ Notes:
 
 ---
 
-### Journal Entry  
-
-
-
 ## Quick Access
-- [[Communication\|Communication]]
+- [[Personal/Communication\|Communication]]
 - [[Essentials/Plans/Crisis Plan\|Crisis Plan]]
 - [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]

@@ -29,7 +29,7 @@ You got through it. That matters. This plan is here to help us rest, recover, an
   - 3 things you see  
   - 2 things you can touch  
   - 1 thing you can hear
-- [ ] Open [[Grounding Tools\|Grounding Tools]] if needed
+- [ ] Open [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] if needed
 
 ---
 
@@ -46,8 +46,8 @@ Pick 1–3 things that feel okay:
 ---
 
 ## 5. Optional: Journal or Reflect
-- [ ] Add a line to [[Daily Log\|Daily Log]]
-- [ ] Leave a message in [[Internal Messages\|Internal Messages]]
+- [ ] Add a line to the daily log
+- [ ] Leave a message in [[Personal/Communication\|Communication]]
 - [ ] Was there anything we learned or want to remember?
 - [ ] Do any parts want to share how they feel?
 
