@@ -26,6 +26,14 @@ Ember thank you for that feedback I am glad it helpped seriously! I just thank y
 
 I- I messed up the ocean monument i im sorry im im sorry i tried i i please don't hate me im sorry im sorry [[Personal/Parts/Ariana\|Ariana]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-06\|2025-05-06]]
 
-Hey [[Personal/Parts/Ariana\|Ariana]] It's ok seriously, it can be fixed... the fact you tried mean more than messing up. It is just a side project [[Personal/Parts/Invis Man\|Invis Man]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-08\|2025-05-08]]
+Hey [[Personal/Parts/Ariana\|Ariana]] It's ok seriously, it can be fixed... the fact you tried mean more than messing up. It is just a side project [[Personal/Parts/Kairo\|Kairo]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-08\|2025-05-08]]
+
+I fixed it for you and me and [[Personal/People/Jen\|Jen]] worked on it a little bit hope that was ok. Also I want to say I am so proud of everyone... you are doing so well. -  [[Personal/Parts/Kairo\|Kairo]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 # Internal Messages
+> [!quote]+ Message To Lily Dated 2025-05-10
+> 
+> - From:  [[Personal/Parts/Kairo\|Kairo]]
+> - To:  [[Personal/Parts/Lily\|Lily]]
+> - Dated: [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+> - Message: You are doing good I am so proud of you. Please know that.  I know it doesn't feel like it but you are doing great. 
 

@@ -44,4 +44,15 @@ This page is for any victories — big or small. Surviving a hard day counts. Dr
 - **How it helped or mattered:** it helped because I tend to procrastinate them
 
 
+- **Date:**  [[Personal/Journal/Daily Note/2025/05 - May/2025-05-09\|2025-05-09]]
+- **Who was involved (if known):**  [[Personal/Parts/Kairo\|Kairo]]
+- **What happened:**  Asked Rend Out 
+- **How it helped or mattered:** It matters because I was to scared to do it
+
+- **Date:**  [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+- **Who was involved (if known):**  [[Personal/Parts/Kairo\|Kairo]]
+- **What happened:**  I cleaned our bedroom and started laundry 
+- **How it helped or mattered:** It matters because [[Personal/Parts/Lily\|Lily]] was procrastinating it!
+
+
 

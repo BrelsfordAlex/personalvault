@@ -18,7 +18,8 @@
 	- [ ] Cook Twice ❗🟢
 - [ ] Make a list of things we can do with teaching Degree 🟠
 - [ ] Laundry ❗🟡
-- [ ] Trash 🟡❗
+	- [x] Started [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+- [x] Trash 🟡❗ [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 # Basic Daily Tasks
 - [ ] Drink water 🟢
 - [ ] Open Daily Log 🟠
@@ -28,8 +29,8 @@
 # Needs to get done
 - [ ] Shower 1 🟠 ❗
 	- [ ] Bonus Shower if you have Energy 🟡
-- [ ] Take out Trash 🟢
-- [ ] Do Laundry 🟢
+- [x] Take out Trash 🟢 [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+- [x] Do Laundry 🟢 [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 
 # To Do List 
 - [x] Clean [[Personal/People/Courtney\|Courtney]]'s Car Wednesday Morning ❗🟡 Done [[Personal/Journal/Daily Note/2025/05 - May/2025-05-07\|2025-05-07]] and [[Personal/Journal/Daily Note/2025/05 - May/2025-05-08\|2025-05-08]]
