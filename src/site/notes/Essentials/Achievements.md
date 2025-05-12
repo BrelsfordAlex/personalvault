@@ -54,5 +54,9 @@ This page is for any victories — big or small. Surviving a hard day counts. Dr
 - **What happened:**  I cleaned our bedroom and started laundry 
 - **How it helped or mattered:** It matters because [[Personal/Parts/Lily\|Lily]] was procrastinating it!
 
+- **Date:**  [[Personal/Journal/Daily Note/2025/05 - May/2025-05-11\|2025-05-11]]
+- **Who was involved (if known):**  [[Personal/Parts/Dax\|Small Dax]]
+- **What happened:**  I took care of myself today and and let myself be small and and and I ate and  I started pokemon flux!!!
+- **How it helped or mattered:** it helped because today is relly bad day for me 
 
 

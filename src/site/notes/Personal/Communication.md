@@ -29,6 +29,8 @@ I- I messed up the ocean monument i im sorry im im sorry i tried i i please don'
 Hey [[Personal/Parts/Ariana\|Ariana]] It's ok seriously, it can be fixed... the fact you tried mean more than messing up. It is just a side project [[Personal/Parts/Kairo\|Kairo]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-08\|2025-05-08]]
 
 I fixed it for you and me and [[Personal/People/Jen\|Jen]] worked on it a little bit hope that was ok. Also I want to say I am so proud of everyone... you are doing so well. I think we sou -  [[Personal/Parts/Kairo\|Kairo]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+
+hewoo i i good boy i i did todays message! I I started fwux!!! - [[Personal/Parts/Dax\|Smol Dax (3)]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-11\|2025-05-11]]
 # Internal Messages
 > [!quote]+ Message To Lily Dated 2025-05-10
 > 

@@ -10,11 +10,13 @@ This page is for noticing **what might cause switches** — not to control them,
 
 ## Known or Suspected Triggers
 
-| Type                   | Trigger Example       | Switch Pattern                                                | Notes or Coping Ideas                                                                                                 |
-| ---------------------- | --------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Emotional/Memory Based | Parents Screaming     | [[Personal/Parts/Lily\|Lily]] or [[Personal/Parts/Midnight\|Midnight]] usually or even in a shut down state | [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]                                                                                                 |
-| Emotional              | Not being listened to | [[Personal/Parts/Ember\|Ember]]                                                     | - Taking a deep breath<br>- Taking some time away from the trigger<br>( AKA getting Space)<br>- [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] |
-|                        | Stress                | [[Personal/Parts/Ariana\|Ariana]]                                                    | - Helps with it and can take care of herself                                                                          |
+| Type                   | Trigger Example            | Switch Pattern                                                | Notes or Coping Ideas                                                                                                 |
+| ---------------------- | -------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Emotional/Memory Based | Parents Screaming          | [[Personal/Parts/Lily\|Lily]] or [[Personal/Parts/Midnight\|Midnight]] usually or even in a shut down state | [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]]                                                                                                 |
+| Emotional              | Not being listened to      | [[Personal/Parts/Ember\|Ember]]                                                     | - Taking a deep breath<br>- Taking some time away from the trigger<br>( AKA getting Space)<br>- [[Essentials/Plans/Grounding Toolbox\|Grounding Toolbox]] |
+|                        | Stress                     | [[Personal/Parts/Ariana\|Ariana]]                                                    | - Helps with it and can take care of herself                                                                          |
+| Date                   | Mothers Day                | [[Personal/Parts/Dax\|Dax]]                                                       | - Partners<br>- Being Small<br>- Video Games                                                                          |
+| Physical               | Hand near the back of neck | Unknown                                                       |                                                                                                                       |
 
 
 ---
@@ -92,3 +94,12 @@ This page is for noticing **what might cause switches** — not to control them,
 - **How we felt after:**  #exposed #scared #worried #confused #dissociation 
 - **Was this switch helpful, harmful, or neutral?**  #harmful-trigger 
 - **Anything we want to try next time?** noticing the trigger? 
+
+---
+- **Date:** [[Personal/Journal/Daily Note/2025/05 - May/2025-05-11\|2025-05-11]]  
+- **Trigger (if known):**  Mothers Day
+- **Who switched in (or out):**  [[Personal/Parts/Dax\|Dax]]
+- **What was happening before:**  Just today
+- **How we felt after:**  #tired/exausted  #stressed 
+- **Was this switch helpful, harmful, or neutral?**  Neutral
+

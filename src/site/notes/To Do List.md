@@ -9,23 +9,36 @@
 > ❗ Must Do
 
 # Weekly Tasks
-## Low Energy
-- [ ] Drink water 🟢
-- [ ] Light stretch
-- [ ] Open Daily Log 🟠
-	- [ ] Add 1 sentence to journal 🟠
-- [ ] Eat one time a day MINIMUM 🟢 ❗
-	- [ ] Cook Twice ❗🟢
-- [ ] Make a list of things we can do with teaching Degree 🟠
-- [ ] Laundry ❗🟡
-	- [x] Started [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
-- [x] Trash 🟡❗ [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
+- [ ] Work🟡
+	- [ ] S&S Oct 2021❗
+	- [ ] Firefly Input bills🟡
+	- [ ] Firefly Pay Bills🟡
+	- [ ] Social Media posts❗🟠
+	- [ ] Staff Meeting❗
+- [ ] Self Care
+	- [ ] Shower ❗🟢
+		- [ ] Extra shower if having the energy 🟡
+	- [ ] Eat Daily❗🟢
+	- [ ] Finish Laundry ❗🟢
+		- [ ] Finish Second Load🟢
+		- [ ] Put Clothes Away🟢
+	- [ ] Therapy ❗🟢
+	- [ ] Call for Allergy APPT
+	- [ ] Call for ENT APPT
+	- [ ] Make Time for myself 🟢
+		- You can play video games, watch youtube, anything 
+- [ ] Graduation Meeting ❗
+- [ ] Graduation❗
 # Basic Daily Tasks
-- [ ] Drink water 🟢
-- [ ] Open Daily Log 🟠
+- [ ] Drink water 🟢 ❗
+- [ ] Open Daily Log 🟠❗
 	- [ ] Add 1 sentence to journal 🟠
-- [ ] Make Bed
-	- [ ] 
+- [ ] Make Bed 🟠
+- [ ] Shower❗🟡
+- [ ] Cook Food for Tuesday❗🟡
+- [ ] Call for Allergy APPT 🟠
+- [ ] Call for ENT APPT🟠
+- [ ] Switch Loads for Laundry 🟡
 # Needs to get done
 - [ ] Shower 1 🟠 ❗
 	- [ ] Bonus Shower if you have Energy 🟡
