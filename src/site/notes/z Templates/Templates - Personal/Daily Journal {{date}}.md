@@ -2,25 +2,20 @@
 {"dg-publish":true,"permalink":"/z-templates/templates-personal/daily-journal-date/","tags":["daily"],"noteIcon":""}
 ---
 
-**<u>How did today feel:</u>** ☆☆☆☆☆
-
-# Today
----
-## Daily System Log  
-**Date:**
+**<u>How did today feel:</u>** ★★★★★
 
 ---
 
 ### Fronting & Memory
 - Who was front:  
 - Any time loss: 
-	- [ ] Yes 
-	- [ ] No  
+	- Yes 
+	- No  
 - If so, when:  
 - Memory of yesterday: 
-	- [ ] Yes
-	- [ ] Partial
-	- [ ] No  
+	- Yes
+	- Partial
+	- No  
 
 ---
 
@@ -31,21 +26,19 @@
 ---
 
 ### What Happened Today?
+
+#### What i did today
 #### Triggers 
 
 #### Journal Entry
 
 ---
 
-### System Communication  
-Message to/from others:  
+tasks-start::
 
----
 
-### Grounding Check  
--  [ ] Did grounding today  
--  [ ] Need grounding  
-Notes:  
+
+tasks-end::
 
 ---
 
