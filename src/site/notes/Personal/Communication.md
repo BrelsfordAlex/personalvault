@@ -31,6 +31,8 @@ Hey [[Personal/Parts/Ariana\|Ariana]] It's ok seriously, it can be fixed... the 
 I fixed it for you and me and [[Personal/People/Jen\|Jen]] worked on it a little bit hope that was ok. Also I want to say I am so proud of everyone... you are doing so well. I think we sou -  [[Personal/Parts/Kairo\|Kairo]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 
 hewoo i i good boy i i did todays message! I I started fwux!!! - [[Personal/Parts/Dax\|Smol Dax (3)]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-11\|2025-05-11]]
+
+Thank you for starting it [[Personal/Parts/Dax\|Dax]] you did so good!!! Also Kairo that is 100% ok! [[Personal/Parts/Lily\|Lily]] [[Personal/Journal/Daily Note/2025/05 - May/2025-05-12\|2025-05-12]]
 # Internal Messages
 > [!quote]+ Message To Lily Dated 2025-05-10
 > 
@@ -38,4 +40,11 @@ hewoo i i good boy i i did todays message! I I started fwux!!! - [[Personal/Part
 > - To:  [[Personal/Parts/Lily\|Lily]]
 > - Dated: [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 > - Message: You are doing good I am so proud of you. Please know that.  I know it doesn't feel like it but you are doing great. 
+
+> [!quote]+ Message To Kairo Dated 2025-05-12
+> - From:  [[Personal/Parts/Lily\|Lily]]
+> - To:  [[Personal/Parts/Kairo\|Kairo]]
+> - Dated: [[Personal/Journal/Daily Note/2025/05 - May/2025-05-12\|2025-05-12]]
+> - Message: Dude you are going to make me cry I fuck i needed this really bad...
+
 

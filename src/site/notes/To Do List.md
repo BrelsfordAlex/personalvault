@@ -11,7 +11,7 @@
 # Weekly Tasks
 - [ ] Work🟡
 	- [ ] S&S Oct 2021❗
-	- [ ] Firefly Input bills🟡
+	- [x] Firefly Input bills🟡
 	- [ ] Firefly Pay Bills🟡
 	- [ ] Social Media posts❗🟠
 	- [ ] Staff Meeting❗
