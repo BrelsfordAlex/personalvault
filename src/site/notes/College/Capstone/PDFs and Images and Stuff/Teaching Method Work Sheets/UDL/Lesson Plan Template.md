@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/udl/lesson-plan-template/","tags":["Universal-Design","capstone","project","worksheets","template"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/udl/lesson-plan-template/","tags":["Universal-Design","capstone","project","worksheets","template"]}
 ---
 
 

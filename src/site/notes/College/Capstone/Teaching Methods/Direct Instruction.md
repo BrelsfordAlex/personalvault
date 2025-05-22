@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/direct-instruction/","tags":["direct-instruction","project","capstone"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/direct-instruction/","tags":["direct-instruction","project","capstone"]}
 ---
 
 > [!abstract] About 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/teaching-students-with-mild-intellectual-disability-to-solve-word-problems-using-schema-based-instruction-1/","tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/teaching-students-with-mild-intellectual-disability-to-solve-word-problems-using-schema-based-instruction-1/","tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"]}
 ---
 
 # Reference

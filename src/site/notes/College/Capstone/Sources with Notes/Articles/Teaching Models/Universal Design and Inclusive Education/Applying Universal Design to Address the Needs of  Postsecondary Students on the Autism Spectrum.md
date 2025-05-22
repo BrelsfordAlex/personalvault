@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/applying-universal-design-to-address-the-needs-of-postsecondary-students-on-the-autism-spectrum/","tags":["UDL","Universal-Design","teachingmethod-mentioned"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/applying-universal-design-to-address-the-needs-of-postsecondary-students-on-the-autism-spectrum/","tags":["UDL","Universal-Design","teachingmethod-mentioned"]}
 ---
 
 # Reference

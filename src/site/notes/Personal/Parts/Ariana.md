@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/ariana/","tags":["Cohost"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/ariana/","tags":["Cohost"]}
 ---
 
 # Ariana

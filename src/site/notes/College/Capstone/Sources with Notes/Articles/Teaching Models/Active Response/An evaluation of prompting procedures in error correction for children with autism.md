@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/an-evaluation-of-prompting-procedures-in-error-correction-for-children-with-autism/","tags":["teachingmethod-mentioned","activestudentresponse","errorCorrection"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/an-evaluation-of-prompting-procedures-in-error-correction-for-children-with-autism/","tags":["teachingmethod-mentioned","activestudentresponse","errorCorrection"]}
 ---
 
 # Reference

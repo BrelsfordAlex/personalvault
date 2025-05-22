@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/visual-hybrid-and-video-modeling/","tags":["visualhybrid","video","videoModeling","capstone","project"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/visual-hybrid-and-video-modeling/","tags":["visualhybrid","video","videoModeling","capstone","project"]}
 ---
 
 >[!info] About Visual Hybrid and Video Modeling Teaching Strategies

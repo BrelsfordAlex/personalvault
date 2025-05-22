@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/systematic-review-of-video-activity-schedules-to-teach-autistic-people/","tags":["video","videoModeling","teachingmethod-mentioned"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/systematic-review-of-video-activity-schedules-to-teach-autistic-people/","tags":["video","videoModeling","teachingmethod-mentioned"]}
 ---
 
 # Reference

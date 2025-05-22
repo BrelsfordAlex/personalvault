@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/to-do-list/","tags":["todo","low-energy","high-energy","mid-energy","task-hub"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/to-do-list/","tags":["todo","low-energy","high-energy","mid-energy","task-hub"]}
 ---
 
 > [!tip] **Key for Energy-Level Tasks**
@@ -16,7 +16,7 @@
 	- [ ] Social Media posts❗🟠
 	- [ ] Staff Meeting❗
 - [ ] Self Care
-	- [ ] Shower ❗🟢
+	- [x] Shower ❗🟢[[Personal/Journal/Daily Note/2025/05 - May/2025-05-12\|2025-05-12]]
 		- [ ] Extra shower if having the energy 🟡
 	- [ ] Eat Daily❗🟢
 	- [ ] Finish Laundry ❗🟢
@@ -34,13 +34,13 @@
 - [ ] Open Daily Log 🟠❗
 	- [ ] Add 1 sentence to journal 🟠
 - [ ] Make Bed 🟠
-- [ ] Shower❗🟡
+- [x] Shower❗🟡[[Personal/Journal/Daily Note/2025/05 - May/2025-05-12\|2025-05-12]]
 - [ ] Cook Food for Tuesday❗🟡
 - [ ] Call for Allergy APPT 🟠
 - [ ] Call for ENT APPT🟠
 - [ ] Switch Loads for Laundry 🟡
 # Needs to get done
-- [ ] Shower 1 🟠 ❗
+- [x] Shower 1 🟠 ❗[[Personal/Journal/Daily Note/2025/05 - May/2025-05-12\|2025-05-12]]
 	- [ ] Bonus Shower if you have Energy 🟡
 - [x] Take out Trash 🟢 [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]
 - [x] Do Laundry 🟢 [[Personal/Journal/Daily Note/2025/05 - May/2025-05-10\|2025-05-10]]

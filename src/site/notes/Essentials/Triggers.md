@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/triggers/","tags":["triggered","trigger-awareness","pattern-tracking"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/essentials/triggers/","tags":["triggered","trigger-awareness","pattern-tracking"]}
 ---
 
 # ⚡ Switch Triggers

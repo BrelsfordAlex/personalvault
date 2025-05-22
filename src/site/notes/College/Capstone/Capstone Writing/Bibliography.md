@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/bibliography/","noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/bibliography/"}
 ---
 
 # Works Cited

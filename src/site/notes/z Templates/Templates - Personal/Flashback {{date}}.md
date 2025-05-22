@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/templates-personal/flashback-date/","tags":["flashback","triggered","stressed"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-templates/templates-personal/flashback-date/","tags":["flashback","triggered","stressed"]}
 ---
 
 # Distress Log – {{YYYY-MM-DD}}

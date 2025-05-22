@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/an-examination-of-teacher-attitudes-towards-children-with-autism/","tags":["Autism","attitude","beliefs","teacher-perspective"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/an-examination-of-teacher-attitudes-towards-children-with-autism/","tags":["Autism","attitude","beliefs","teacher-perspective"]}
 ---
 
  # Reference

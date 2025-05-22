@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/templates-personal/alter-template/","noteIcon":""}
+{"dg-publish":true,"permalink":"/z-templates/templates-personal/alter-template/"}
 ---
 
 # `= this.name`

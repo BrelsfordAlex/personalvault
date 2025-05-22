@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/3-factor-method/","tags":["3factormethod","project","capstone"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/teaching-methods/3-factor-method/","tags":["3factormethod","project","capstone"]}
 ---
 
 > [!abstract] About Three Factor Method

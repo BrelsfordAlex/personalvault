@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/kiki/","tags":["Alter","System"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/kiki/","tags":["Alter","System"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/achievements/","tags":["achievments","System","system-growth","validation"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/essentials/achievements/","tags":["achievments","System","system-growth","validation"]}
 ---
 
 # 🌟 System Achievements

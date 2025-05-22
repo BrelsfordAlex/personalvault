@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/plans/post-crisis-plan/","tags":["Crisis-Plan","post-crisis","SelfCare"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/essentials/plans/post-crisis-plan/","tags":["Crisis-Plan","post-crisis","SelfCare"]}
 ---
 
 # Post-Crisis Plan

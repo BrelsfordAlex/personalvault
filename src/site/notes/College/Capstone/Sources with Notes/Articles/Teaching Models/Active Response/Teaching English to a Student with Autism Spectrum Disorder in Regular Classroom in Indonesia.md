@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/teaching-english-to-a-student-with-autism-spectrum-disorder-in-regular-classroom-in-indonesia/","tags":["peer-support","inclusive-education","teachingmethod-mentioned","co-teaching","visualhybrid","General-Education","activestudentresponse"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/active-response/teaching-english-to-a-student-with-autism-spectrum-disorder-in-regular-classroom-in-indonesia/","tags":["peer-support","inclusive-education","teachingmethod-mentioned","co-teaching","visualhybrid","General-Education","activestudentresponse"]}
 ---
 
 # Reference

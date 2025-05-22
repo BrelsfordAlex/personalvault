@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/udl/class-learning-profile-template/","tags":["Universal-Design","inclusive-education","project","capstone","worksheets","template"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/udl/class-learning-profile-template/","tags":["Universal-Design","inclusive-education","project","capstone","worksheets","template"]}
 ---
 
 ## Class Learning Profile Blank Template

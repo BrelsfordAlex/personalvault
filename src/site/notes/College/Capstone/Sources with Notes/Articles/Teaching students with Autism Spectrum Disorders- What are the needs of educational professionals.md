@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-students-with-autism-spectrum-disorders-what-are-the-needs-of-educational-professionals/","tags":["Inclusion","General-Education","teacher-perspective","Autism"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-students-with-autism-spectrum-disorders-what-are-the-needs-of-educational-professionals/","tags":["Inclusion","General-Education","teacher-perspective","Autism"]}
 ---
 
 # Reference

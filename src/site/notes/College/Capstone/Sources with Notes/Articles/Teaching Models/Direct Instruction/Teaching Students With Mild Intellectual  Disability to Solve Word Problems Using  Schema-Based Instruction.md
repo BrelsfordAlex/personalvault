@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/direct-instruction/teaching-students-with-mild-intellectual-disability-to-solve-word-problems-using-schema-based-instruction/","tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/direct-instruction/teaching-students-with-mild-intellectual-disability-to-solve-word-problems-using-schema-based-instruction/","tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"]}
 ---
 
 # Reference

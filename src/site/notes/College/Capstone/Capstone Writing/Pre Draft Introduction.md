@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/pre-draft-introduction/","tags":["draft","outline"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/pre-draft-introduction/","tags":["draft","outline"]}
 ---
 
 

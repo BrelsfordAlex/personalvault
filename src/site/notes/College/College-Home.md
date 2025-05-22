@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/college-home/","tags":["home-page"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/college-home/","tags":["home-page"]}
 ---
 
 

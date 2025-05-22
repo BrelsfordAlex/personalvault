@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/templates-personal/date/","tags":["memory-fragment","memory"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-templates/templates-personal/date/","tags":["memory-fragment","memory"]}
 ---
 
 

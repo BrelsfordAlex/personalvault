@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/user-guide/","noteIcon":""}
+{"dg-publish":true,"permalink":"/essentials/user-guide/"}
 ---
 
 # Vault User Guide

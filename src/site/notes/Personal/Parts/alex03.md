@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/alex03/","tags":["Alter","System"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/alex03/","tags":["Alter","System"]}
 ---
 
 

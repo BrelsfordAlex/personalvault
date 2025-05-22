@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/direct-instruction/i-do-we-do-you-do/","tags":["direct-instruction","worksheets","capstone","project"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/pd-fs-and-images-and-stuff/teaching-method-work-sheets/direct-instruction/i-do-we-do-you-do/","tags":["direct-instruction","worksheets","capstone","project"]}
 ---
 
 

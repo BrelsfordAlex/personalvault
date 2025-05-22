@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/ember/","tags":["#little","#bpdsplit","#split-from-armoury"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/ember/","tags":["#little","#bpdsplit","#split-from-armoury"]}
 ---
 
 # Ember

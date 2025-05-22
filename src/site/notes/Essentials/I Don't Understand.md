@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essentials/i-don-t-understand/","tags":["help-me","Crisis-Plan","triggered"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/essentials/i-don-t-understand/","tags":["help-me","Crisis-Plan","triggered"]}
 ---
 
 # **"****What's going on? Where am I?****"**  

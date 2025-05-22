@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/visual-hybrid-development-learning-system-vhdls-framework-for-children-with-autism/","tags":["teachingmethod-mentioned","visualhybrid","learningstyle"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/video-modeling-and-visual-hybrid/visual-hybrid-development-learning-system-vhdls-framework-for-children-with-autism/","tags":["teachingmethod-mentioned","visualhybrid","learningstyle"]}
 ---
 
 # Reference

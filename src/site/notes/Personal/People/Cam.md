@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/people/cam/","noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/people/cam/"}
 ---
 
 Dating [[Personal/People/Jen\|Jen]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/due-dates/","noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/due-dates/"}
 ---
 
  

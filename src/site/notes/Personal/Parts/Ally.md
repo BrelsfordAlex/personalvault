@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/ally/","tags":["Alter","System"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/ally/","tags":["Alter","System"]}
 ---
 
 

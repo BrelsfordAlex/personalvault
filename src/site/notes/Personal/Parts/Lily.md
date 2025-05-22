@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/parts/lily/","tags":["host","mainfronter","System","Alter","traumaholder","sexualtraumaholder","sexualprotector","thevoidlivingroom","kissessubsystem","theforgottencircus"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/parts/lily/","tags":["host","mainfronter","System","Alter","traumaholder","sexualtraumaholder","sexualprotector","thevoidlivingroom","kissessubsystem","theforgottencircus"]}
 ---
 
 # Lily 

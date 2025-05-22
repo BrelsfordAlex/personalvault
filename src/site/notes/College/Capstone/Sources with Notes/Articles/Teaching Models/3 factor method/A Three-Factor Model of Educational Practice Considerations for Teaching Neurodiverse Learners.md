@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/3-factor-method/a-three-factor-model-of-educational-practice-considerations-for-teaching-neurodiverse-learners/","tags":["teachingmethod-mentioned","3factormethod"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/3-factor-method/a-three-factor-model-of-educational-practice-considerations-for-teaching-neurodiverse-learners/","tags":["teachingmethod-mentioned","3factormethod"]}
 ---
 
 # References

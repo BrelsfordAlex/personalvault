@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/exploring-inclusive-pedagogy/","tags":["Inclusion","Pedagogical-Practices","inclusive-education","General-Education","teachingmethod-mentioned","UDL","Universal-Design"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/exploring-inclusive-pedagogy/","tags":["Inclusion","Pedagogical-Practices","inclusive-education","General-Education","teachingmethod-mentioned","UDL","Universal-Design"]}
 ---
 
  Florian, Lani, and Kristine Black-Hawkins. “Exploring Inclusive Pedagogy.” _British Educational Research Journal_, vol. 37, no. 5, Oct. 2011, pp. 813–828, bera-journals.onlinelibrary.wiley.com/doi/abs/10.1080/01411926.2010.501096, https://doi.org/10.1080/01411926.2010.501096.

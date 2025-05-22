@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/how-do-i-want-the-project-to-look/","tags":["outline"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-writing/how-do-i-want-the-project-to-look/","tags":["outline"]}
 ---
 
 I want to have a page for each teaching method and have the pages be formatted like this 

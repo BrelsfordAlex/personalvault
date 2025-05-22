@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/educators-challenges-of-including-children-with-autism-spectrum-disorder-in-mainstream-classrooms/","tags":["inclusive-education","General-Education","social-inclusion","UDL","Universal-Design"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/universal-design-and-inclusive-education/educators-challenges-of-including-children-with-autism-spectrum-disorder-in-mainstream-classrooms/","tags":["inclusive-education","General-Education","social-inclusion","UDL","Universal-Design"]}
 ---
 
 # Reference

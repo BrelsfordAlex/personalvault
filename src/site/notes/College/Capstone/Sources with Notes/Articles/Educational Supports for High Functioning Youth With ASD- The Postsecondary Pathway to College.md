@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/educational-supports-for-high-functioning-youth-with-asd-the-postsecondary-pathway-to-college/","tags":["Autism","visualhybrid"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/educational-supports-for-high-functioning-youth-with-asd-the-postsecondary-pathway-to-college/","tags":["Autism","visualhybrid"]}
 ---
 
 

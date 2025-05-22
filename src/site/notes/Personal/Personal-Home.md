@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/personal-home/","tags":["home-page"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personal/personal-home/","tags":["home-page"]}
 ---
 
 # Welcome to our personal Vault on Obsidian

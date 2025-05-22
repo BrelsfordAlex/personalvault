@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/direct-instruction/a-systematic-review-and-quality-appraisal-of-applications-of-direct-instruction-with-children-with-autism-spectrum-disorder/","tags":["direct-instruction","teachingmethod-mentioned"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/sources-with-notes/articles/teaching-models/direct-instruction/a-systematic-review-and-quality-appraisal-of-applications-of-direct-instruction-with-children-with-autism-spectrum-disorder/","tags":["direct-instruction","teachingmethod-mentioned"]}
 ---
 
 # Reference

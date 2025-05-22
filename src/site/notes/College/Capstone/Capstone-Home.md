@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/college/capstone/capstone-home/","tags":["home-page","capstone"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/college/capstone/capstone-home/","tags":["home-page","capstone"]}
 ---
 
 > " **It's not about what you want/what you see in the end. It's about what you perceive the end goal is at the moment of time, and that can change** "
